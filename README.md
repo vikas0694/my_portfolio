@@ -1,2 +1,2 @@
-# my_portfolio
-portfolio in html 
+# my_porfolio
+my porfolio in simple html  
